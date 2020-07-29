@@ -1,2 +1,2 @@
 # HackerRank
-My HackerRank submissions
+https://www.hackerrank.com/JJStoker
